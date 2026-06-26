@@ -1,0 +1,38 @@
+.qq{
+    background-color: black;
+    width: 180px;
+    height: 550px;
+    margin: auto;
+    padding: 50px;
+}
+.qizl{
+    background-color: rgb(255, 0, 0);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}
+.sariq{
+    background-color: rgb(238, 255, 0);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+    
+}
+
+.yashl{
+    background-color: rgb(51, 255, 0);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+    
+}
+.t{
+    background-color: black;
+    width: 20px;
+    height: 700px;
+    margin: auto;
+    padding: 50px;
+}
